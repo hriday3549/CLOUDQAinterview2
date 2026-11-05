@@ -1,0 +1,13 @@
+{
+  "name": "plain-english-browser-tests",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test-case": "node runner.mjs"
+  },
+  "dependencies": {
+    "@openrouter/sdk": "^1.5.55",
+    "playwright": "^1.51.0"
+  }
+}
